@@ -1,4 +1,4 @@
-#Reactive stack app server-> RSocket + Spring WebFlux + R2DBC
+#Reactive stack app server-> RSocket + Spring WebFlux + R2DBC.
 This RSocket server app was built to test a reactive stack. Spring WebFlux was used (Netty server), RSocket as the communication protocol and PostgreSQL as the DB reactive component using R2DBC -Reactive Relational Database Connectivity.
 All components of this little system are reactive, ie. non-blocking with back pressure.
 
